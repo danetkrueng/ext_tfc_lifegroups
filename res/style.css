@@ -1,0 +1,73 @@
+.tx-tfclifegroups-pi1 table.fellowship .input_select {
+	background-color: #ffffff;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #848484 #c1c1c1 #e1e1e1;
+	height: 1.8em;
+	outline: 0;
+	padding: 2px 0;
+	vertical-align: middle;
+}
+.tx-tfclifegroups-pi1 table.fellowship .input_btn {
+	border-radius: 0;
+	cursor: pointer;
+	padding: 1px 5px;
+}
+.tx-tfclifegroups-pi1 .tx-tfclifegroups-pi1-listrow.fellowship {
+	background-color: #ffffff;
+	padding: 10px;
+}
+
+.tx-tfclifegroups-pi1 .tx-tfclifegroups-pi1-listrow.fellowship span {
+	color: #0e2f40;
+	font-size:22px;
+	line-height: 1.7em;
+}
+.tx-tfclifegroups-pi1 table.fellowship td {
+	color: #0e2f40;
+	line-height: 1.7;
+	padding-right: 20px;
+}
+.tx-tfclifegroups-pi1 table.fellowship {
+	margin: 0 !important;
+}
+.tx-tfclifegroups-pi1 .xds_smallgroup_base_table.fellowship {
+	margin-top: 10px !important;
+}
+.tx-tfclifegroups-pi1 .xds_smallgroup_base_table.fellowship .border_bottom {
+	border-bottom: 1px solid #dddddd;
+	padding: 7px 10px;
+}
+.tx-tfclifegroups-pi1 .xds_smallgroup_base_table.fellowship .first {
+	width: 305px;
+}
+.tx-tfclifegroups-pi1 .xds_smallgroup_base_table.fellowship td a {
+	color: #336699 !important;
+	font: bold 12px/1.5 Arial, serif;
+	text-decoration: underline !important;
+}
+.tx-tfclifegroups-pi1 .xds_smallgroup_base_table.fellowship th {
+	background: #eeeeee;
+	border-left: 1px solid #ffffff;
+	color: #333333;
+	font-weight: bold;
+	padding: 5px 10px;
+	text-align: left;
+}
+.tx-tfclifegroups-pi1 .xds_smallgroup_base_table.fellowship span {
+	color: #888888;
+	font-size: 12px;
+}
+.tx-tfclifegroups-pi1 .tx-tfclifegroups-pi1-listrow.fellowship td p a {
+	text-decoration: none !important;
+}
+.tx-tfclifegroups-pi1 .tx-tfclifegroups-pi1-listrow.fellowship .tx-tfclifegroups-pi1-browsebox-SCell p a {
+	color: #888888 !important;
+}
+.tx-tfclifegroups-pi1 .tx-tfclifegroups-pi1-browsebox {
+	color: #0e2f40;
+	float: right;
+	position: relative;
+	margin-top: -40px;
+	right: 10px;
+}

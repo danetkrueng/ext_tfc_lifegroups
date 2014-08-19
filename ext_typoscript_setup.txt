@@ -1,0 +1,18 @@
+plugin.tx_tfclifegroups_pi1._LOCAL_LANG.default.all_interests=All interests
+plugin.tx_tfclifegroups_pi1._LOCAL_LANG.default.all_semesters=All semesters
+plugin.tx_tfclifegroups_pi1._LOCAL_LANG.default.all_ages=All ages
+plugin.tx_tfclifegroups_pi1._LOCAL_LANG.default.all_days=All days
+plugin.tx_tfclifegroups_pi1._LOCAL_LANG.default.all_categories=All categories
+
+page.includeCSS {
+	tfclifegroups = EXT:ext_tfc_lifegroups/res/style.css
+}
+
+page.includeJS {
+	tfclifegroups = EXT:ext_tfc_lifegroups/res/general.js
+}
+
+page.includeJSlibs {
+	jquery.external = 1
+	jquery = http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+}
